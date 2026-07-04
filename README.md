@@ -1,4 +1,4 @@
-# Global Analysis of Renewable Energy Sources
+#  Global Analysis of Renewable Energy Sources
 
 ## Overview
 This project presents an in-depth examination of various renewable energy sources: solar, wind, hydroelectric, biofuel, and geothermal energy. By exploring their usage patterns, installed capacities, shares in the energy mix, and roles in electricity production, the analysis unveils the current landscape and future potential of renewable energy globally. The research investigates how renewable energy contributes to our energy system and assesses the potential for full utilization of these resources.
